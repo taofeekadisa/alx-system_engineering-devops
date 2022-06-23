@@ -14,3 +14,4 @@ Other users: all the permissions
 Task 9-John Doe Write a script that sets the mode of the file hello to this:-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 Task 10-Look in the mirror Write a script that sets the mode of the file hello the same as olleh’s mode.
 Task 11-Directories Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+Task 12-More directories Create a script that creates a directory called my_dir with permissions 751 in the working directory.
