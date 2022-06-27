@@ -1,0 +1,2 @@
+#!/bin/bash
+heah -10 /etc/passwd
